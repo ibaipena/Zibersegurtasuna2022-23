@@ -57,6 +57,7 @@
    - Advanced Factories 2023 Mahai-Ingurua:
    - Caso de éxito ClearPass Don Bosco:
    - Transferentzia Eguna:
+   - Cybasque:
 
 
 
