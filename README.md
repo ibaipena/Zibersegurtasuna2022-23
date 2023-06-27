@@ -24,6 +24,9 @@
 ## 3.Lan ildoak:
   - ### 3.1 Proiektuak:
      - Cyber Range:
+      - Saioak:
+      - Ikastetxeetara transferentzia: 
+     - OT Azpiegitura aurreratua:
        
      - Zentruetako Proiektuak:
        - Cyber Car:
