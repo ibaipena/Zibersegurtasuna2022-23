@@ -2,18 +2,10 @@
 2022-23 ikasturteko memoria
 
 ## Aurkibidea
-### 1.Aurkezpena:
-### 2.2023ko zifrak:
-### 3.Lan ildoak:
-  - #### 3.1 Proiektuak:
-  - #### 3.2 Pilotuak:
-  - #### 3.3 Ikastaroak:
-  - #### 3.4 Sortutako edukiak:
-### 4.Harremanak eta Komunikazioa:
-## Table of Contents
 1. [Aurkezpena](#1aurkezpena-1)
 2. [2023ko zifrak](#22023ko-zifrak-1)
-3. [3.Lan ildoak](#3lan-ildoak-1)
+3. [Lan ildoak](#3lan-ildoak-1)
+   3.1 [Proiektuak](#3lan-ildoak-1)
   - #### 3.1 Proiektuak:
   - #### 3.2 Pilotuak:
   - #### 3.3 Ikastaroak:
