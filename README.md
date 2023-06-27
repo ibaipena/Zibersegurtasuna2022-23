@@ -3,7 +3,8 @@
 2022-23 ikasturteko memoria
 
 
-## Aurkibidea
+## Aurkibidea![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
+
 1. [Aurkezpena:](#1aurkezpena)
 2. [2023ko zifrak:](#22023ko-zifrak)
 3. [Lan ildoak:](#3lan-ildoak)
