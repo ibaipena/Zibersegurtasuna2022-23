@@ -9,7 +9,7 @@
 ### 5.Komunikazioak
 
 
-## Installation
+## 1.Aurkezpena
 
 The installation of the distribution is done in the same way as with any version of Raspberry Pi OS.
 These are the recommended steps to follow:
