@@ -4,11 +4,10 @@
 ## Aurkibidea
 ### 1.Aurkezpena
 ### 2.2023ko zifrak
-### 3.Harremanak
-### 4.Lan ildoak
-### 5.Komunikazioak
+### 3.Lan ildoak
+### 4.Harremanak eta Komunikazioa
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena
 
 The installation of the distribution is done in the same way as with any version of Raspberry Pi OS.
