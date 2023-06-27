@@ -17,7 +17,7 @@
 5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
-Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegurtasun lantaldetik jorratu diren edukiak agertzen dira. Edukiak zerrendatzeaz gain, erabilitako fitxategi, sorturiko materiala, etabarretara iristeko estekak ikusten dira.
+Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegurtasun lantaldetik jorratu diren edukiak agertzen dira. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak aurkitzen dira.
 
 
 
