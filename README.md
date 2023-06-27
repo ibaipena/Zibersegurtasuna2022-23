@@ -1,6 +1,6 @@
 # Zibersegurtasuna2022-23
 2022-23 ikasturteko memoria
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 ## Aurkibidea
 ### 1.Aurkezpena:
 ### 2.2023ko zifrak:
