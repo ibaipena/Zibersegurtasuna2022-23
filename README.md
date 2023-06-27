@@ -11,10 +11,10 @@
   - #### 3.4 Sortutako edukiak:
 ### 4.Harremanak eta Komunikazioa:
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+1. [Aurkezpena](#general-info)
+2. [2023ko zifrak](#technologies)
+3. [3.Lan ildoak](#installation)
+4. [Harremanak eta Komunikazioa](#collaboration)
 5. [FAQs](#faqs)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:
