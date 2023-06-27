@@ -2,11 +2,11 @@
 2022-23 ikasturteko memoria
 
 ## Aurkibidea
-###1.Aurkezpena
-###2.2023ko zifrak
-###3.Harremanak
-###4.Lan ildoak
-###5.Komunikazioak
+### 1.Aurkezpena
+### 2.2023ko zifrak
+### 3.Harremanak
+### 4.Lan ildoak
+### 5.Komunikazioak
 
 
 ## Installation
