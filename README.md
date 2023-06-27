@@ -26,16 +26,31 @@
      - Cyber Range:
        
      - Zentruetako Proiektuak:
+     - - Cyber Car:
+       - OT Erronkak:
   
   
-  - ### 3.2 Pilotuak
+  - ### 3.2 Pilotuak:
+  - - Darktrace:
+    - Smartfense:
+    - Pentesting Tartanga:
   
-  - ### 3.3 Ikastaroak
+  - ### 3.3 Ikastaroak:
+  - - OT Formakuntza:
+    - Nozomi:
+    - Python Hacking-erako:
+    - Sare Sozialak eta Bullyng-a:
+    - OT Bideoformakuntza:
   
-  - ### 3.4 Sortutako edukiak
+  - ### 3.4 Sortutako edukiak:
+  - - SMB Relay erasoa:
 
 
-## 4.Harremanak eta Komunikazioa
+## 4.Harremanak eta Komunikazioa:
+   - ZELT Lantaldea:
+   - Teknopolis saioa:
+   - Diario Vasco erreportaia:
+   - TKNIKA berriak:
 
 
 
