@@ -24,7 +24,7 @@
 ## 3.Lan ildoak:
   - ### 3.1 Proiektuak:
    - Cyber Range:
-   - - Cyber Range:
+     - Cyber Range:
   
   - ### 3.2 Pilotuak
   
