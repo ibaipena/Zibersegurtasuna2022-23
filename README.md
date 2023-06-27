@@ -15,16 +15,17 @@
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-## 1.Aurkezpena:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0) 
-
-
-
-## 2.2023ko zifrak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
+## 1.Aurkezpena:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
 
 
 
 
-## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
+## 2.2023ko zifrak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
+
+
+
+
+## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
   - ### 3.1 Proiektuak:
      - Cyber Range:
        - Saioak:
@@ -52,7 +53,7 @@
     - SMB Relay erasoa:
 
 
-## 4.Harremanak eta Komunikazioa:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
+## 4.Harremanak eta Komunikazioa:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
    - ZELT Lantaldea:
    - Teknopolis saioa:
    - Diario Vasco erreportaia:
@@ -65,6 +66,6 @@
 
 
 
-## Author&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
+## Author&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
 
 
