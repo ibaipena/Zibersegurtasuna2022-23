@@ -5,7 +5,7 @@
 1. [Aurkezpena](#1aurkezpena-1)
 2. [2023ko zifrak](#22023ko-zifrak-1)
 3. [Lan ildoak](#3lan-ildoak-1)
-   3.1 [Proiektuak](#3lan-ildoak-1)
+  - 3.1 [Proiektuak](#3lan-ildoak-1)
   - #### 3.1 Proiektuak:
   - #### 3.2 Pilotuak:
   - #### 3.3 Ikastaroak:
