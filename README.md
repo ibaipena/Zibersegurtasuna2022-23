@@ -15,8 +15,7 @@
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
-## 1.Aurkezpena:
+![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0) ## 1.Aurkezpena:
 
 
 
