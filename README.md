@@ -19,12 +19,12 @@
 
 
 
-## 2.2023ko zifrak:
+## 2.2023ko zifrak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
 
 
 
 
-## 3.Lan ildoak:
+## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
   - ### 3.1 Proiektuak:
      - Cyber Range:
        - Saioak:
@@ -52,7 +52,7 @@
     - SMB Relay erasoa:
 
 
-## 4.Harremanak eta Komunikazioa:
+## 4.Harremanak eta Komunikazioa:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
    - ZELT Lantaldea:
    - Teknopolis saioa:
    - Diario Vasco erreportaia:
@@ -65,6 +65,6 @@
 
 
 
-## Author
+## Author&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![berdea](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/69f2a989-baba-4745-bc19-92e018ce1ee0)
 
 
