@@ -2,14 +2,14 @@
 2022-23 ikasturteko memoria
 
 ## Aurkibidea
-1. [Aurkezpena:](#1aurkezpena-1)
-2. [2023ko zifrak:](#22023ko-zifrak-1)
-3. [Lan ildoak:](#3lan-ildoak-1)
-   - 3.1 [Proiektuak:](#31-proiektuak-1)
-   - 3.2 [Pilotuak:](#32-pilotuak-1)
-   - 3.3 [Ikastaroak:](#33-ikastaroak-1)
-   - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak-1)
-4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa-1)
+1. [Aurkezpena:](#1aurkezpena)
+2. [2023ko zifrak:](#22023ko-zifrak)
+3. [Lan ildoak:](#3lan-ildoak)
+   - 3.1 [Proiektuak:](#31-proiektuak)
+   - 3.2 [Pilotuak:](#32-pilotuak)
+   - 3.3 [Ikastaroak:](#33-ikastaroak)
+   - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
+4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
 5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:
