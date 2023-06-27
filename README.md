@@ -11,7 +11,7 @@
   - #### 3.4 Sortutako edukiak:
 ### 4.Harremanak eta Komunikazioa:
 ## Table of Contents
-1. [Aurkezpena](#general-info)
+1. [Aurkezpena](#1aurkezpena-1)
 2. [2023ko zifrak](#technologies)
 3. [3.Lan ildoak](#installation)
 4. [Harremanak eta Komunikazioa](#collaboration)
