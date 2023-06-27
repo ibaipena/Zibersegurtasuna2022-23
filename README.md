@@ -26,24 +26,24 @@
      - Cyber Range:
        
      - Zentruetako Proiektuak:
-     - - Cyber Car:
+       - Cyber Car:
        - OT Erronkak:
   
   
   - ### 3.2 Pilotuak:
-  - - Darktrace:
+    - Darktrace:
     - Smartfense:
     - Pentesting Tartanga:
   
   - ### 3.3 Ikastaroak:
-  - - OT Formakuntza:
+    - OT Formakuntza:
     - Nozomi:
     - Python Hacking-erako:
     - Sare Sozialak eta Bullyng-a:
     - OT Bideoformakuntza:
   
   - ### 3.4 Sortutako edukiak:
-  - - SMB Relay erasoa:
+    - SMB Relay erasoa:
 
 
 ## 4.Harremanak eta Komunikazioa:
@@ -51,6 +51,9 @@
    - Teknopolis saioa:
    - Diario Vasco erreportaia:
    - TKNIKA berriak:
+   - Advanced Factories 2023 Mahai-Ingurua:
+   - Caso de éxito ClearPass Don Bosco:
+   - Transferentzia Eguna:
 
 
 
