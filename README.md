@@ -32,44 +32,44 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
 
 ## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
   - ### 3.1 Proiektuak:
-     - Cyber Range:
+     - **Cyber Range:**
        - Saioak:
        - Ikastetxeetara transferentzia: 
-     - OT Azpiegitura aurreratua:
+     - **OT Azpiegitura aurreratua:**
        
-     - Zentruetako Proiektuak:
+     - **Zentruetako Proiektuak:**
        - Cyber Car:
        - OT Erronkak:
   
   
   - ### 3.2 Pilotuak:
-    - Darktrace:
-    - Smartfense:
+    - **Darktrace:**
+    - **Smartfense:**
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da langileak sarean izan ditzakegun arriskuen inguruan kontzientziatzea.
     - Pentesting Tartanga:
   
   - ### 3.3 Ikastaroak:
-    - OT Formakuntza:
-    - Nozomi:
-    - Python Hacking-erako:
-    - Sare Sozialak eta Bullyng-a:
-    - OT Bideoformakuntza:
+    - **OT Formakuntza:**
+    - **Nozomi:**
+    - **Python Hacking-erako:**
+    - **Sare Sozialak eta Bullyng-a:**
+    - **OT Bideoformakuntza:**
   
   - ### 3.4 Sortutako edukiak:
-    - SMB Relay erasoa:
+    - **SMB Relay erasoa:**
 Jarraitutako urratsen dokumentazioa. [This is a link](docs/SMBRELAY_DOKUMENTUA.pdf)
 
 ## 4.Harremanak eta Komunikazioa:![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
-   - ZELT Lantaldea:
-   - Teknopolis saioa:
-   - Diario Vasco erreportaia:
-   - TKNIKA berriak:
-   - Advanced Factories 2023 Mahai-Ingurua:
-   - Caso de éxito ClearPass Don Bosco:
-   - Transferentzia Eguna:
-   - Cybasque:
+   - **ZELT Lantaldea:**
+   - **Teknopolis saioa:**
+   - **Diario Vasco erreportaia:**
+   - **TKNIKA berriak:**
+   - **Advanced Factories 2023 Mahai-Ingurua:**
+   - **Caso de éxito ClearPass Don Bosco:**
+   - **Transferentzia Eguna:**
+   - **Cybasque:**
 
 
 
