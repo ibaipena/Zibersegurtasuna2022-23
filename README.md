@@ -28,7 +28,12 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   - Ikastaro kopurua: 3
   - Ikastaroetan partehartzaile kopurua:
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Bisita kopurua: | 80 inguru  |
+| Bisitariak:  | 1000 baino gehiago  |
+| Cyber Range Saioak: |  5 |
+| Ikastaro kopurua:  | 3  |
 
 ## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
   - ### 3.1 Proiektuak:
