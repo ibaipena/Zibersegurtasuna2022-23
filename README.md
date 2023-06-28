@@ -35,7 +35,8 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   - ### 3.1 Proiektuak:
      - **Cyber Range:**
        - Saioak:
-       - Ikastetxeetara transferentzia: 
+       - Ikastetxeetara transferentzia:
+
      - **OT Azpiegitura aurreratua:**
        
      - **Zentruetako Proiektuak:**
@@ -44,12 +45,13 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   
   
   - ### 3.2 Pilotuak:
-    - **Darktrace:**
+    - **Darktrace:** 
+      <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
     - **Smartfense:**
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da langileak sarean izan ditzakegun arriskuen inguruan kontzientziatzea.
-    - Pentesting Tartanga:
+    - **Pentesting (Tartanga):**
   
   - ### 3.3 Ikastaroak:
     - **OT Formakuntza:**
