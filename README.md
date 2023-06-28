@@ -1,6 +1,6 @@
 ![header](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/d472f574-a500-4fd1-bf89-15f1c592fd84)
 ![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
-# Zibersegurtasuna2022-23
+# Zibersegurtasuna 2022-23
 2022-23 ikasturteko memoria
 
 
