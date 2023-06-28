@@ -59,7 +59,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   
   - ### 3.4 Sortutako edukiak:
     - SMB Relay erasoa:
-
+Jarraitutako urratsen dokumentazioa. [This is a link](docs/SMBRELAY_DOKUMENTUA.pdf)
 
 ## 4.Harremanak eta Komunikazioa:![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
    - ZELT Lantaldea:
