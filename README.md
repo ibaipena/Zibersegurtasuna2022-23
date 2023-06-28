@@ -51,7 +51,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da erabiltzaileak sareko arriskuen inguruan kontzientziatzea.
-      Lagin modura, **TKNIKA**ko langileen plantilla erabili da, bertako 59 langile gehitu direlarik erabiltzaile gisa. Honetarako erabili den tresna **SMARTFENSE** [Dokumentazio gida](docs/smartfense/SMARTFENSE_-_Catálogo_de_Contenidos.pdf) [Osagaiak-Ezaugarriak](docs/smartfense/SMARTFENSE_-_Descripción_de_Componentes_y_Características.pdf)izan da eta bi kanpaina burutu dira Otsaila eta Ekaina artean.
+      Lagin modura, **TKNIKA**ko langileen plantilla erabili da, bertako 59 langile gehitu direlarik erabiltzaile gisa. Honetarako erabili den tresna **SMARTFENSE** izan da eta bi kanpaina burutu dira Otsaila eta Ekaina artean. [Dokumentazio gida](docs/smartfense/SMARTFENSE_-_Catálogo_de_Contenidos.pdf) eta [Osagaiak-Ezaugarriak](docs/smartfense/SMARTFENSE_-_Descripción_de_Componentes_y_Características.pdf)
       - **1.kanpaina:** *Pasahitz seguruak* [Dokumentazio gida](docs/smartfense/SMARTFENSE_1KANPAINA_EMAITZAK.pdf) 
       - **2.kanpaina:** *Phishing-Ransomware iruzurrak* [Dokumentazio gida](docs/smartfense/SF_PHISHING_DOKUMENTUA.pdf) 
     - **Pentesting (Tartanga):**
