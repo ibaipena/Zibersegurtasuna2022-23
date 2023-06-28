@@ -45,6 +45,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   - ### 3.2 Pilotuak:
     - Darktrace:
     - Smartfense:![smarfense](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673)
+      <img src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=50% height=50%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da langileak sarean izan ditzakegun arriskuen inguruan kontzientziatzea.
     - Pentesting Tartanga:
