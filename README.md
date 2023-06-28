@@ -41,6 +41,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   - ### 3.2 Pilotuak:
     - Darktrace:
     - Smartfense:
+      Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da langileak sarean izan ditzakegun arriskuen inguruan kontzientziatzea.
     - Pentesting Tartanga:
   
   - ### 3.3 Ikastaroak:
