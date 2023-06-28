@@ -21,7 +21,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
 
 
 
-## 2.2023ko zifrak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
+## 2.2023ko zifrak:
   
 | Zer  | Kopurua |
 | ------------- | ------------- |
@@ -31,7 +31,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
 | Ikastaroak:  | 3  |
 | Ikastaroetan partehartzaileak:  | xxxx  |
 
-## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
+## 3.Lan ildoak:
   - ### 3.1 Proiektuak:
      - **Cyber Range:**
        - Saioak:
@@ -51,9 +51,9 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da erabiltzaileak sareko arriskuen inguruan kontzientziatzea.
-      Lagin modura, TKNIKAko langileen plantilla erabili da, bertako 59 langile gehitu direlarik erabiltzaile gisa. Honetarako erabili den tresna SMARTFENSE izan da eta bi kanpaina burutu dira Otsaila eta Ekaina artean.
-      - 1.kanpaina: Pasahitz seguruak
-      - 2.kanpaina: Phishing-Ransomware iruzurrak
+      Lagin modura, **TKNIKA**ko langileen plantilla erabili da, bertako 59 langile gehitu direlarik erabiltzaile gisa. Honetarako erabili den tresna **SMARTFENSE** izan da eta bi kanpaina burutu dira Otsaila eta Ekaina artean.
+      - **1.kanpaina:** *Pasahitz seguruak*
+      - **2.kanpaina:** *Phishing-Ransomware iruzurrak*
     - **Pentesting (Tartanga):**
   
   - ### 3.3 Ikastaroak:
@@ -65,9 +65,9 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   
   - ### 3.4 Sortutako edukiak:
     - **SMB Relay erasoa:**
-Jarraitutako urratsen dokumentazioa. [This is a link](docs/SMBRELAY_DOKUMENTUA.pdf)
+Jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/SMBRELAY_DOKUMENTUA.pdf)
 
-## 4.Harremanak eta Komunikazioa:![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
+## 4.Harremanak eta Komunikazioa:
    - **ZELT Lantaldea:**
    - **Teknopolis saioa:**
    - **Diario Vasco erreportaia:**
