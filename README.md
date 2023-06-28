@@ -25,11 +25,11 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
   
 | Zer  | Kopurua |
 | ------------- | ------------- |
-| Bisitak: | 80 inguru  |
-| Bisitariak:  | 1000 baino gehiago  |
+| Bisitak: | 80 +-  |
+| Bisitariak:  | 1000 +  |
 | Cyber Range Saioak: |  5 |
 | Ikastaroak:  | 3  |
-| Ikastaroetan partehartzaileak:  | 3  |
+| Ikastaroetan partehartzaileak:  | xxxx  |
 
 ## 3.Lan ildoak:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![tknika_logo](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/c91f35c1-9776-40fe-8fed-c8d4171250dc)
   - ### 3.1 Proiektuak:
