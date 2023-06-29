@@ -65,7 +65,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
       Pilotu hau Transferentzia Egunean aurkeztu zen. Hona hemen, bertan erabilitako aurkezpenaren euskarria.  [Aurkezpena](docs/smartfense/TransferentziaegunaSmartfense.pdf)
 
     - **Pentesting (Tartanga):**
-  
+      **Tartanga** ikastetxearekin elkarlanean, pilotu bat martxan jarri da aurtengo ikasturtean ikastetxearen **Pen Testing** bat egiteko. Honetan, **Txurdinaga** ikastetxeko Zibersegurtasun espezialitateko ikasle bat aritu da. [Dokumentazio gida]docs/pentesting_tartanga/PilotoPentesting.pdf
   - ### 3.3 Ikastaroak:
     - **OT Zibersegurtasunaren Oinarriak:** [Paulino]
     - **Nozomi:** [Ibai]
