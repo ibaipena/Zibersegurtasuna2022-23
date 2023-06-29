@@ -78,7 +78,8 @@ Jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_
    - **Advanced Factories 2023 Mahai-Ingurua:**
    - **Caso de éxito ClearPass Don Bosco:**
    - **Transferentzia Eguna:**
-      [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o)
+
+       [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o)
    - **Cybasque:**
 
 
