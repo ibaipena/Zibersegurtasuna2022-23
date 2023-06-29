@@ -49,7 +49,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
     - **Darktrace:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
     
-       Aurtengo ikasturtean **Uni Eibar-Ermua** Ikastetxearekin batera, **Darktrace** izeneko tresna testeatu da saretik etor daitezken mehatxuen aurrean eskintzen duen babes mailaren ikerketa bat egiteko  asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/DarktracePilotua.pdf)
+       Aurtengo ikasturtean **Uni Eibar-Ermua** Ikastetxearekin batera, **Darktrace** izeneko tresna testeatu da saretik etor daitezken mehatxuen aurrean admien artifiziala erabiliz, eskaintzen duen babes mailaren ikerketa bat egiteko asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/DarktracePilotua.pdf)
     - **Smartfense:**
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
@@ -68,7 +68,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   
   - ### 3.4 Sortutako edukiak:
     - **SMB Relay erasoa:**
-Jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_DOKUMENTUA.pdf)
+Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mota da. Active Directory instalatuta dagoen inguruneetan, SMB protokoloa erabiliz burutzen den penetrazio bat da. Ikerketa honetan jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_DOKUMENTUA.pdf)
 
 ## 4.Harremanak eta Komunikazioa:<img align="center" src="img/lerroa.png">
    - **ZELT Lantaldea:**
