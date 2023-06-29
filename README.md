@@ -78,6 +78,7 @@ Jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_
    - **Advanced Factories 2023 Mahai-Ingurua:**
    - **Caso de éxito ClearPass Don Bosco:**
    - **Transferentzia Eguna:**
+
    Ekainak 22an burutu zen Transferentzia Egunean, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: Cyber Car, PenTesting Tartanga, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).
 Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o)
