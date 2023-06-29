@@ -27,10 +27,11 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 | Zer  | Kopurua |
 | ------------- | ------------- |
 | Bisitak: | 80 +-  |
-| Bisitariak:  | 1000 +  |
+| Bisitariak:  | 1500 +  |
 | Cyber Range Saioak: |  5 |
-| Ikastaroak:  | 3  |
+| Ikastaroak:  | 4  |
 | Ikastaroetan partehartzaileak:  | xxxx  |
+| Pilotuak:  | xxxx  |
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
   - ### 3.1 Proiektuak:
