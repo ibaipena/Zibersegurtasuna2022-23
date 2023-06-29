@@ -48,7 +48,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   - ### 3.2 Pilotuak:
     - **Darktrace:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
-      [Dokumentazio gida](docs/darktrace/Darktrace Pilotua.pdf)
+     Uni Eibar Ikastetxearekin batera, Darktrace izeneko tresna testeatu da aurtengo ikasturtean sareko trafikoaren ikerketa bat egiteko eskeintzen dituen aukerak ebaluatzeko asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/Darktrace Pilotua.pdf)
     - **Smartfense:**
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
