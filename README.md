@@ -75,18 +75,19 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
 ## 4.Harremanak eta Komunikazioa:<img align="center" src="img/lerroa.png">
    - **ZELT Lantaldea:**  [Ibai]
    - **Teknopolis saioa:**  [Gari]
+
+   Maiatza bukaeran, EITBko Teknopolis saioaren grabaketa burutu zen. Tknikan bertan grabaturiko atalari, Andra Mari ikastetxean OT espezialitateko atalak gehitu zitzaizkion. Saioa Ekainak 15ean emititu zen.
+    [![Watch the video](https://www.eitb.eus/eu/nahieran/teknopolis/teknopolis-eu-2022-2023/osoa/8358/209774/)
    - **Diario Vasco erreportaia:**  [Gari]
    - **Advanced Factories 2023 Mahai-Ingurua:** [Ibai]
    - **Caso de éxito ClearPass Don Bosco:** [Gari]
    - **Euskal Hack:**
           EuskalHackek 2023 edizioan parte hartu ondoren, han emaniko tailler interesgarri batzuen zenbait esteka:
      - **Offensive Logon Sessions:**  [2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf](https://github.com/MrSquid25/PPTs-CONs/blob/main/2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf)
-     - **Reconftw:** [EuskalHack2023 Reconftw](https://github.com/six2dez/reconftw)
-
-       Bertan erabilitako aurkezpenaren dokumentua. [Reconftw.pdf](docs/euskalhack/reconftw_euskalhack23.pdf) 
+     - **Reconftw:** [EuskalHack2023 Reconftw](https://github.com/six2dez/reconftw) Bertan erabilitako aurkezpenaren dokumentua. [Reconftw.pdf](docs/euskalhack/reconftw_euskalhack23.pdf) 
    - **Transferentzia Eguna:** [Gari]
 
-   Ekainak 22an burutu zen Transferentzia Egunean, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: PenTesting (Tartanga), Cyber Car, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).
+   **Ekainak 22**an burutu zen **Transferentzia Egunean**, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: **PenTesting (Tartanga), Cyber Car, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).**
 Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o)
    - **Cybasque:** [Ibai]
