@@ -61,7 +61,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar Tknikako Zibersegur
     - **OT Formakuntza:**
     - **Nozomi:**
     - **Python Hacking-erako:**
-    - **Sare Sozialak eta Bullyng-a:**
+    - **Sare Sozialak eta Bullying-a:**
     - **OT Bideoformakuntza:**
   
   - ### 3.4 Sortutako edukiak:
