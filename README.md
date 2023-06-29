@@ -32,6 +32,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 | Ikastaroak:  | 4  |
 | Ikastaroetan partehartzaileak:  | xxxx  |
 | Pilotuak:  | xxxx  |
+| Enpresak elkarlanean:  | 20  |
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
   - ### 3.1 Proiektuak:
