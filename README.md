@@ -34,23 +34,23 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
   - ### 3.1 Proiektuak:
-     - **Cyber Range:**
+     - **Cyber Range:** [Ibai]
        - Saioak:
        - Ikastetxeetara transferentzia:
 
-     - **OT Azpiegitura aurreratua:**
+     - **OT Azpiegitura aurreratua:** [Paulino]
        
-     - **Zentruetako Proiektuak:**
+     - **Zentruetako Proiektuak:** [Ibai-Gari]
        - Cyber Car:
        - OT Erronkak:
   
   
   - ### 3.2 Pilotuak:
-    - **Darktrace:** 
+    - **Darktrace:** [Gari]
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
     
        Aurtengo ikasturtean **Uni Eibar-Ermua** Ikastetxearekin batera, **Darktrace** izeneko tresna testeatu da saretik etor daitezken mehatxuen aurrean admien artifiziala erabiliz, eskaintzen duen babes mailaren ikerketa bat egiteko asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/DarktracePilotua.pdf)
-    - **Smartfense:**
+    - **Smartfense:** [Gari]
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da erabiltzaileak sareko arriskuen inguruan kontzientziatzea.
@@ -60,30 +60,30 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
     - **Pentesting (Tartanga):**
   
   - ### 3.3 Ikastaroak:
-    - **OT Formakuntza:**
-    - **Nozomi:**
-    - **Python Hacking-erako:**
-    - **Sare Sozialak eta Bullying-a:**
-    - **OT Bideoformakuntza:**
+    - **OT Zibersegurtasunaren Oinarriak:** [Paulino]
+    - **Nozomi:** [Ibai]
+    - **Python Hacking-erako:** [Urko]
+    - **Sare Sozialak eta Bullying-a:** [Ibai]
+    - **OT Bideoformakuntza:**  [Ibai]
   
   - ### 3.4 Sortutako edukiak:
-    - **SMB Relay erasoa:**
+    - **SMB Relay erasoa:**  [Gari]
 Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mota da. Active Directory instalatuta dagoen inguruneetan, SMB protokoloa erabiliz burutzen den penetrazio bat da. Ikerketa honetan jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_DOKUMENTUA.pdf)
 
 ## 4.Harremanak eta Komunikazioa:<img align="center" src="img/lerroa.png">
-   - **ZELT Lantaldea:**
-   - **Teknopolis saioa:**
-   - **Diario Vasco erreportaia:**
-   - **TKNIKA berriak:**
-   - **Advanced Factories 2023 Mahai-Ingurua:**
-   - **Caso de éxito ClearPass Don Bosco:**
-   - **Transferentzia Eguna:**
+   - **ZELT Lantaldea:**  [Ibai]
+   - **Teknopolis saioa:**  [Gari]
+   - **Diario Vasco erreportaia:**  [Gari]
+   - **Advanced Factories 2023 Mahai-Ingurua:** [Ibai]
+   - **Caso de éxito ClearPass Don Bosco:** [Gari]
+   - **Euskal Hack:** 2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf
+   - **Transferentzia Eguna:** [Gari]
 
    Ekainak 22an burutu zen Transferentzia Egunean, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: PenTesting (Tartanga), Cyber Car, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).
 Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o)
-   - **Cybasque:**
-
+   - **Cybasque:** [Ibai]
+   - **TKNIKA berriak:**  [Gari]
 
 
 
