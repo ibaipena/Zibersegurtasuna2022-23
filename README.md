@@ -80,7 +80,7 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
    - **Caso de éxito ClearPass Don Bosco:** [Gari]
    - **Euskal Hack:**
           EuskalHackek 2023 edizioan parte hartu ondoren, han emaniko tailler interesgarri batzuen zenbait esteka:
-   - - **Offensive Logon Sessions:**  [2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf](https://github.com/MrSquid25/PPTs-CONs/blob/main/2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf)
+     - **Offensive Logon Sessions:**  [2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf](https://github.com/MrSquid25/PPTs-CONs/blob/main/2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf)
    - **Transferentzia Eguna:** [Gari]
 
    Ekainak 22an burutu zen Transferentzia Egunean, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: PenTesting (Tartanga), Cyber Car, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).
