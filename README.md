@@ -40,21 +40,20 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
        - Saioak:
        - Ikastetxeetara transferentzia:
 
-     - **OT Azpiegitura aurreratua:** [Paulino]
+     - **OT Azpiegitura aurreratua:** 
 
-OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.
-[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
+OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
      - **Zentruetako Proiektuak:** [Ibai-Gari]
        - Cyber Car:
        - OT Erronkak:
   
   
   - ### 3.2 Pilotuak:
-    - **Darktrace:** [Gari]
+    - **Darktrace:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
     
        Aurtengo ikasturtean **Uni Eibar-Ermua** Ikastetxearekin batera, **Darktrace** izeneko tresna testeatu da saretik etor daitezken mehatxuen aurrean admien artifiziala erabiliz, eskaintzen duen babes mailaren ikerketa bat egiteko asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/DarktracePilotua.pdf)
-    - **Smartfense:** [Gari]
+    - **Smartfense:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da erabiltzaileak sareko arriskuen inguruan kontzientziatzea.
@@ -71,12 +70,12 @@ OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan
     - **OT Bideoformakuntza:**  [Ibai]
   
   - ### 3.4 Sortutako edukiak:
-    - **SMB Relay erasoa:**  [Gari]
+    - **SMB Relay erasoa:** 
 Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mota da. Active Directory instalatuta dagoen inguruneetan, SMB protokoloa erabiliz burutzen den penetrazio bat da. Ikerketa honetan jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_DOKUMENTUA.pdf)
 
 ## 4.Harremanak eta Komunikazioa:<img align="center" src="img/lerroa.png">
    - **ZELT Lantaldea:**  [Ibai]
-   - **Teknopolis saioa:**  [Gari]
+   - **Teknopolis saioa:**  
 
    Maiatza bukaeran, EITBko Teknopolis saioaren grabaketa burutu zen. Tknikan bertan grabaturiko atalari, Andra Mari ikastetxean OT espezialitateko atalak gehitu zitzaizkion. Saioa Ekainak 15ean emititu zen.
     
@@ -89,7 +88,7 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
           EuskalHackek 2023 edizioan parte hartu ondoren, han emaniko tailler interesgarri batzuen zenbait esteka:
      - **Offensive Logon Sessions:**  [2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf](https://github.com/MrSquid25/PPTs-CONs/blob/main/2023/EuskalHack/EuskalHack_Offensive_Logon_Sessions.pdf)
      - **Reconftw:** [EuskalHack2023 Reconftw](https://github.com/six2dez/reconftw) Bertan erabilitako aurkezpenaren dokumentua. [Reconftw.pdf](docs/euskalhack/reconftw_euskalhack23.pdf) 
-   - **Transferentzia Eguna:** [Gari]
+   - **Transferentzia Eguna:** 
 
    **Ekainak 22**an burutu zen **Transferentzia Egunean**, ikasturtean zehar jorraturiko lan ildo desberdinak aurkeztu ziren. Beste proiektu batzuen artean, 2022-23an zehar landu diren pilotu hauek aurkeztu ziren: **PenTesting (Tartanga), Cyber Car, OT Erronkak(Andra Mari) Darktrace (Uni Eibar-Ermua), eta Smartfense(Tknika).**
 Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
