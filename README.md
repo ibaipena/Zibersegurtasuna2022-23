@@ -78,7 +78,7 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
 
    Maiatza bukaeran, EITBko Teknopolis saioaren grabaketa burutu zen. Tknikan bertan grabaturiko atalari, Andra Mari ikastetxean OT espezialitateko atalak gehitu zitzaizkion. Saioa Ekainak 15ean emititu zen.
     [![Watch the video](https://www.eitb.eus/eu/nahieran/teknopolis/teknopolis-eu-2022-2023/osoa/8358/209774/)
-    <img align="center" src="img/teknopolis.jpg" width=20% height=20%>
+    <img align="center" src="img/teknopolis.jpg" href="https://www.eitb.eus/eu/nahieran/teknopolis/teknopolis-eu-2022-2023/osoa/8358/209774/"width=20% height=20%>
    - **Diario Vasco erreportaia:**  [Gari]
    - **Advanced Factories 2023 Mahai-Ingurua:** [Ibai]
    - **Caso de éxito ClearPass Don Bosco:** [Gari]
