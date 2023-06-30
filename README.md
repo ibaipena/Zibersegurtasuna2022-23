@@ -69,7 +69,8 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   - ### 3.3 Ikastaroak:
     - **OT Zibersegurtasunaren Oinarriak:** [Paulino]
     - **Nozomi:** [Ibai]
-    - **Python Hacking-erako:** [Urko]
+    - **Python Hacking-erako:** <img align="center" src="img/phyton.png" width=20% height=20%>
+    
        Kontuan hartuta Python-ek zibersegurtasunaren Munduan daukan arrakasta, online ikastaro hau martxan jarri da. Oso ikastaro praktikoa izan da: parte hartzaileek norbanarentzako laborategi birtual baten kontrako hacking etiko teknikak martxan jarri dituzte. 
    4 aste iraun du ikastaroak, eta horietako bakoitzean pentesting prozesu baten fase nagusiak jorratu dira: Ezagutza (Footprinting), Zenbaketa (Fingerprintig), Ustiapena (Explotation) eta Ustiapen-ostekoa (Post-Explotation).  Fase horietako bakoitzean script batzuk moldatu eta exekutatu behar izan dituzte, gertatutakoa aztertuz eta enuntziatuek eskatutako soluzioak aplikazio batean sartuz. 
     - **Sare Sozialak eta Bullying-a:** [Ibai]
