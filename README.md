@@ -81,7 +81,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   
   - ### 3.4 Sortutako edukiak:
     - **SMB Relay erasoa:**
-      <img align="center" src="img/smb.png" width=20% height=20%>
+      <img align="center" src="img/smb.png" width=10% height=10%>
       
 Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mota da. Active Directory instalatuta dagoen inguruneetan, SMB protokoloa erabiliz burutzen den penetrazio bat da. Ikerketa honetan jarraitutako urratsen dokumentazioa. [Dokumentazio gida](docs/smbrelay/SMBRELAY_DOKUMENTUA.pdf)
 
