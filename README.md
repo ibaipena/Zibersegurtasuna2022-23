@@ -45,8 +45,8 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
      - **Zentruetako Proiektuak:** [Ibai-Gari]
-       - Cyber Car:
-       - OT Erronkak:
+       - *Cyber Car:*
+       - *OT Erronkak:*
          Ikastetxeetarako OT erronka berriak diseinatu dira. Cyber Range saioak egiteko laborategiak prestatzearekin batera Galdakaoko Andra Mari, Barakaldo eta Txorierriko ikastetxeekin batera. Prozesu honen garapena azaltzen duen aurkezpena:
          [Aurkezpena](docs/OT/OT_Cyberrange_Aurkezpena.pdf)
   
@@ -66,7 +66,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
       Pilotu hau Transferentzia Egunean aurkeztu zen. Hona hemen, bertan erabilitako aurkezpenaren euskarria.  [Aurkezpena](docs/smartfense/TransferentziaegunaSmartfense.pdf)
 
-    - **Pentesting (Tartanga):**
+    - **Pentesting (Tartanga):** <img align="center" src="img/tartanga_logo.png" width=20% height=20%>
       **Tartanga** ikastetxearekin elkarlanean, pilotu bat martxan jarri da aurtengo ikasturtean ikastetxearen **Pen Testing** bat egiteko. Honetan, **Txurdinaga** ikastetxeko Zibersegurtasun espezialitateko ikasle bat aritu da. [Dokumentazio gida](docs/pentesting_tartanga/PilotoPentesting.pdf)
   - ### 3.3 Ikastaroak:
     - **OT Zibersegurtasunaren Oinarriak:** [Paulino]
