@@ -47,7 +47,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
      - **Zentruetako Proiektuak:** [Ibai-Gari]
        - Cyber Car:
        - OT Erronkak:
-         Ikastetxeetarako OT erronka berriak diseinatu dira. Cyber Range saioak egiteko laborategiak prestatzearekin batera Galdakaoko Andra Mari ikastetxearekin batera. Prozesu honen garapena azaltzen duen aurkezpena:
+         Ikastetxeetarako OT erronka berriak diseinatu dira. Cyber Range saioak egiteko laborategiak prestatzearekin batera Galdakaoko Andra Mari, Barakaldo eta Txorierriko ikastetxeekin batera. Prozesu honen garapena azaltzen duen aurkezpena:
          [Aurkezpena](docs/OT/OT_Cyberrange_Aurkezpena.pdf)
   
   
