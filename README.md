@@ -72,7 +72,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
     
       **Tartanga** ikastetxearekin elkarlanean, pilotu bat martxan jarri da aurtengo ikasturtean ikastetxearen **Pen Testing** froga bat egiteko. Honetan, **Txurdinaga** ikastetxeko Zibersegurtasun espezialitateko ikasle bat aritu da. [Dokumentazio gida](docs/pentesting_tartanga/PilotoPentesting.pdf)
   - ### 3.3 Ikastaroak:
-    - **OT Zibersegurtasunaren Oinarriak:** <img align="center" src="img/ot_ikastaroa.png"  width=50% height=50%>
+    - **OT Zibersegurtasunaren Oinarriak:** <img align="center" src="img/ot_ikastaroa.png"  width=80% height=80%>
       Martxoak 14 eta 23 bitartean, 40 irakaslek parte hartu zuten *"OT Zibersegurtasunaren Oinarriak"* ikastaroan. 20 ordutako iraupena izan zuen ikastaro honetan, OT munduko zibersegurtasunera hurbilketa burutu nahi izan zen.
       Horretarako aurkezpen teorikoak eta kasu praktikoak tartekatuko ziren. Kurtso amaieran aurkezpenak, kasu praktikoen gida eta alor hauetan sakontzeko material gehigarria banatuko zen. [Materiala hemen](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/tree/main/OT(SCI)Oinarriak) Azalpenak Euskaraz, Euskarriak Gaztelaniaz.
     - **Nozomi:** [Ibai]
