@@ -26,8 +26,8 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   
 | Zer  | Kopurua |
 | ------------- | ------------- |
-| Bisitak: | 80 +-  |
-| Bisitariak:  | 1500 +  |
+| Bisitak: | 86 +-  |
+| Bisitariak:  | 1547 +  |
 | Cyber Range Saioak: |  5 |
 | Ikastaroak:  | 4  |
 | Ikastaroen balorazioa:  | xxx  |
@@ -37,14 +37,15 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
   - ### 3.1 Proiektuak:
-     - **Cyber Range:** [Ibai]
+     - **Cyber Range:** [Ibai] Aurreko ikasturtean garatutako Cyber Range espazio eta azpiegiturari etikina atera diogu aurten. Ikastetxe ezberdinetako ikasleak IT eta OT motako erronkak gainditu behar izan dituzte, hiru edo lau orduko saio teknikoetan. Gainera, zentru batzuk hasi dira Tknikan garatutako azpiegitura hau bere egiten, Tknikan sortutako garapen, laborategi etab. beraien ikastetxeetan integratuz.
        - Saioak:
+       - 
        - Ikastetxeetara transferentzia:
 
      - **OT Azpiegitura aurreratua:** 
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
-     - **Zentruetako Proiektuak:** 
+     - **Zentruetako Proiektuak:** [Ibai-Gari]
        - *Cyber Car:*
          Konektatutako ibilgailuetan, zibersegurtasunari buruzko normalizazioko organo estandarrak ezarri nahi izan dira ikastetxe ezberdinek partehartu duten proiektu honetan. Garraio-sistema adimenduetan, komunikazio-teknologiak tartean dauden konektibitatea aztertuz.  [Aurkezpena](docs/cybercar/cybercar.pdf)
           
@@ -72,12 +73,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
     
       **Tartanga** ikastetxearekin elkarlanean, pilotu bat martxan jarri da aurtengo ikasturtean ikastetxearen **Pen Testing** froga bat egiteko. Honetan, **Txurdinaga** ikastetxeko Zibersegurtasun espezialitateko ikasle bat aritu da. [Dokumentazio gida](docs/pentesting_tartanga/PilotoPentesting.pdf)
   - ### 3.3 Ikastaroak:
-    - **OT Zibersegurtasunaren Oinarriak:**
-
-      <img align="center" src="img/ot_ikastaroa.png"  width=70% height=70%>
-
-      **Martxoak 14 eta 23** bitartean, 40 irakaslek parte hartu zuten *"OT Zibersegurtasunaren Oinarriak"* ikastaroan. 20 ordutako iraupena izan zuen ikastaro honetan, **OT munduko zibersegurtasunera** hurbilketa burutu nahi izan zen.
-      Horretarako aurkezpen teorikoak eta kasu praktikoak tartekatuko ziren. Kurtso amaieran aurkezpenak, kasu praktikoen gida eta alor hauetan sakontzeko material gehigarria banatuko zen. [Materiala guztia hemen](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/tree/main/OT(SCI)Oinarriak) *Azalpenak Euskaraz, Euskarriak Gaztelaniaz.*
+    - **OT Zibersegurtasunaren Oinarriak:** [Paulino]
     - **Nozomi:** [Ibai]
     - **Python Hacking-erako:** <img align="center" src="img/phyton.png" width=20% height=20%>
     
@@ -115,10 +111,7 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        
    - **Cybasque:** [Ibai]
    - **TKNIKA berriak:**
-     2022-23 ikasturtean [Tknika.eus](https://tknika.eus/) webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak.
-     - [Cyber Range: Durango Maristak](https://tknika.eus/eu/cont/cyber-range-maristak-durangoko-ikasleen-saioa/)
-     - [Cyber Range: Easo-Txurdinaga-Zubiri](https://tknika.eus/eu/cont/cyber-range-easo-txurdinaga-eta-zubiri-manteo/)
-     - [OT Zibersegurtasun oinarriak](https://tknika.eus/eu/cont/cursos/ot-zibersegurtasun-oinarriak/)
+     2022-23 ikasturtean Tknika.eus webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak. [Tknikako webguneko albisteak](https://tknika.eus/eu/cont/proyectos/internet-industriala/)
 
 
 
