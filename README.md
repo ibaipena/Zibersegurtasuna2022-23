@@ -109,7 +109,8 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
 [![Watch the video](https://img.youtube.com/vi/bk5YuVu1D7o/0.jpg)](https://www.youtube.com/embed/bk5YuVu1D7o) 
        
    - **Cybasque:** [Ibai]
-   - **TKNIKA berriak:**  [Gari]
+   - **TKNIKA berriak:**
+     2022-23 ikasturtean Tknika.eus webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak. [Tknikako webguneko albisteak](https://tknika.eus/eu/cont/proyectos/internet-industriala/)
 
 
 
