@@ -110,7 +110,7 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        
    - **Cybasque:** [Ibai]
    - **TKNIKA berriak:**
-     2022-23 ikasturtean Tknika.eus webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak. [Tknikako webguneko albisteak](https://tknika.eus/eu/cont/proyectos/internet-industriala/)
+     2022-23 ikasturtean [Tknika.eus](https://tknika.eus/) webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak. [Tknikako webguneko albisteak](https://tknika.eus/eu/cont/proyectos/internet-industriala/)
 
 
 
