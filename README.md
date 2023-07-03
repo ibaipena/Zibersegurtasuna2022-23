@@ -110,7 +110,10 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
        
    - **Cybasque:** [Ibai]
    - **TKNIKA berriak:**
-     2022-23 ikasturtean [Tknika.eus](https://tknika.eus/) webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak. [Tknikako webguneko albisteak](https://tknika.eus/eu/cont/proyectos/internet-industriala/)
+     2022-23 ikasturtean [Tknika.eus](https://tknika.eus/) webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak.
+     - [Cyber Range: Easo](https://tknika.eus/eu/cont/cyber-range-maristak-durangoko-ikasleen-saioa/)
+     - [Cyber Range: Easo-Txurdinaga-Zubiri](https://tknika.eus/eu/cont/cyber-range-easo-txurdinaga-eta-zubiri-manteo/)
+     - [OT Zibersegurtasun oinarriak](https://tknika.eus/eu/cont/cursos/ot-zibersegurtasun-oinarriak/)
 
 
 
